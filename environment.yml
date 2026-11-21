@@ -14,3 +14,4 @@ dependencies:
       - scipy>=1.13,<2
       - matplotlib>=3.10,<4
       - pandas>=2.2,<4
+      - beautifulsoup4>=4,<5
